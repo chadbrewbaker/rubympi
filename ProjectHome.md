@@ -1,0 +1,1 @@
+RubyMPI is a modification to the Ruby reference interpreter for parallel computing research. The aim is to wrap distributed memory algorithms in a natural Ruby syntax accessible to mainstream software engineers.
